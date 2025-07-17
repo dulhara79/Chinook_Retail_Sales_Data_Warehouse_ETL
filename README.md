@@ -25,6 +25,7 @@ This project demonstrates the creation of a complete ETL pipeline using **SQL Se
 
 ## 📁 Project Structure
 
+```pgsql
 Retail_Sales_Data_Warehouse_ETL/
 │
 ├── cripts/
@@ -43,6 +44,7 @@ Retail_Sales_Data_Warehouse_ETL/
 │ ├── Chinook_Load_DW.dtsx
 │ ├── Chinook_Load_Staging.dtsx
 │ └── ChinookETL.sln
+```
 ---
 
 ## 🛠️ Technologies Used
